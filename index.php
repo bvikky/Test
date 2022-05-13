@@ -4,6 +4,8 @@ $c=5;
 $d=$b+$c;
 $cars = array("Volvo", "BMW", "Toyota");
 
+$animal = array("lion", "tiger", "cow");
+
 print_r($cars);
 
 $x=15;
